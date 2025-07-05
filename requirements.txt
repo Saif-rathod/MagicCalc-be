@@ -5,4 +5,5 @@ numpy
 pandas
 scipy
 requests
+google-generativeai
 python-dotenv
