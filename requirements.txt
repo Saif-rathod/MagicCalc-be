@@ -1,1 +1,8 @@
-
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
+scipy
+requests
+python-dotenv
